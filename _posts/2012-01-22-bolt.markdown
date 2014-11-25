@@ -4,6 +4,7 @@ title: "《闪电狗》"
 tags: 电影
 published: true
 comment: true
+image: 
 description: 
 date: 2012-01-22
 ---

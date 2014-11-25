@@ -3,6 +3,7 @@ layout: post
 title: "第一篇"
 tags:
 comment: true
+image: 
 published: true
 date: 2012-01-15
 ---

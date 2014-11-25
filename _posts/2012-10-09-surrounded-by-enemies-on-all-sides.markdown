@@ -3,6 +3,7 @@ layout: post
 title: 四面楚歌
 tags: 日记
 comment: true
+image: 
 published: true
 description: 
 ---

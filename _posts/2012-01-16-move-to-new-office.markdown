@@ -3,6 +3,7 @@ layout: post
 title: "公司搬家记"
 tags: [日记, 感想]
 comment: true
+image: 
 published: true
 date: 2012-01-16
 ---
